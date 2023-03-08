@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d4b75&size=45&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Kevin+DS+Wesselka;I'm+20+Years+Old;Be+Welcome+To+Browse+Here!)](https://git.io/typing-svg)
 
 <div id="header" self-align="right">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/katherinne-assis-a9100516a/](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dny5pldkkpjgixwi4fdcovyn5m](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri?si=WBUBH7bxRoCa5U_bvyM6EA))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDSWesselka&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
