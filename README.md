@@ -2,7 +2,7 @@
 
 <div id="header" self-align="right">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/)
  
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dny5pldkkpjgixwi4fdcovyn5m](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri?si=WBUBH7bxRoCa5U_bvyM6EA))
 
