@@ -8,7 +8,11 @@
  
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dny5pldkkpjgixwi4fdcovyn5m](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri?si=WBUBH7bxRoCa5U_bvyM6EA))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDSWesselka&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/LeehXD">
+    
+    
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=LeehXD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+ 
  </div>
 
 
@@ -24,5 +28,3 @@
 <img aling="center" alt="css3" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img aling="center" alt="css3" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-
-##
