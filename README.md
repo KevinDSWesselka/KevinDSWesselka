@@ -31,5 +31,4 @@
 <img aling="center" alt="css3" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 <br><p/>
- ##
  <img src="https://user-images.githubusercontent.com/53584776/222942742-87571e60-5cd6-454a-ac29-55a4dc771327.jpg" alt="#SouSPTech">
