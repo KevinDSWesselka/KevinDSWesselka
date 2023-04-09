@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dny5pldkkpjgixwi4fdcovyn5m](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri?si=WBUBH7bxRoCa5U_bvyM6EA))
 
-<span style= "display: flex; align-items: stretch;">
+<span style= "display: flex; flex-direction: row;">
 <a href="https://github.com/LeehXD">
   <a href="[https://github.com/ellen2121](https://github.com/KevinDSWesselka)">
    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=KevinDSWesselka&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
