@@ -29,4 +29,8 @@
 <a title="Ranger in Trailhead" href="https://www.salesforce.com/trailblazer/profile/KevinDSWesselka"><img aling="center" style=" height: 25px" alt="css3" src="https://logosmarcas.net/wp-content/uploads/2020/11/Salesforce-Simbolo.png" /><a/>
 </div>
 <br><p/>
- <a href="https://www.sptech.school/"><img src="https://user-images.githubusercontent.com/53584776/222942742-87571e60-5cd6-454a-ac29-55a4dc771327.jpg" alt="#SouSPTech"> <a/>
+ 
+ <a href="https://www.sptech.school/](https://www.linkedin.com/company/ercic/mycompany/verification/">
+  <img src="https://media.licdn.com/dms/image/D4D3DAQFdmjMSw3iRJg/image-scale_191_1128/0/1704978033633/ercic_cover?e=1709740800&v=beta&t=GlgX5ScpIxkLGqjQkY6u7f693UrazuVON2U7kLoN1-0" alt="elera.">
+ <a/>
+ 
