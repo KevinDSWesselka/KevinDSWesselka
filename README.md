@@ -3,7 +3,7 @@
  ##
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri))
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri)
 
 <span style= "display: flex; flex-direction: row;">
 <a href="https://github.com/LeehXD">
