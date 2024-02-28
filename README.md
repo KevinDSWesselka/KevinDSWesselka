@@ -30,7 +30,7 @@
 </div>
 <br><p/>
  
- <a href="https://www.sptech.school/](https://www.linkedin.com/company/ercic/mycompany/verification/">
+ <a href="https://www.linkedin.com/company/ercic/mycompany/verification/">
   <img src="https://media.licdn.com/dms/image/D4D3DAQFdmjMSw3iRJg/image-scale_191_1128/0/1704978033633/ercic_cover?e=1709740800&v=beta&t=GlgX5ScpIxkLGqjQkY6u7f693UrazuVON2U7kLoN1-0" alt="elera.">
  <a/>
  
