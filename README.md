@@ -31,10 +31,12 @@
 <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <a title="Ranger in Trailhead" href="https://www.salesforce.com/trailblazer/profile/KevinDSWesselka"><img aling="center" style=" height: 25px" alt="css3" src="https://logosmarcas.net/wp-content/uploads/2020/11/Salesforce-Simbolo.png" /><a/>
 </div>
-<br><p/>
+<p/> 
+ 
+## Cool API
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lx4ctckypv2c6rur2oifghw3ri&count=3)<p/>
+
+## Work in
  <a href="https://www.linkedin.com/company/ercic/mycompany/verification/">
   <img src="https://media.licdn.com/dms/image/D4D3DAQFdmjMSw3iRJg/image-scale_191_1128/0/1704978033633/ercic_cover?e=1710864000&v=beta&t=aGtumVngFz-1VKRFy2WHyJB17X9eNgYGuolhBCunr34" alt="elera.">
  <a/>
- 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lx4ctckypv2c6rur2oifghw3ri&count=3)<p/>
- 
