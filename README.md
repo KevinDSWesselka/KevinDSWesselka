@@ -34,7 +34,8 @@
 <p/> 
  
 ## Cool API
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lx4ctckypv2c6rur2oifghw3ri&count=3)<p/>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lx4ctckypv2c6rur2oifghw3ri&count=3)
+<p/>
 
 ## Work in
  <a href="https://www.linkedin.com/company/ercic/mycompany/verification/">
