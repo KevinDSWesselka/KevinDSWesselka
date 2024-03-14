@@ -5,12 +5,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri)
 
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinDSWesselka&theme=react&hide_border=true&background=0D1117&title_color=0043C7&icon_color=0043C7&text_color=c9d1d9&bg_color=0d1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
 <span style="display: flex; flex-direction: row;">
   <a href="https://github.com/LeehXD">
-    <a href="[https://github.com/kevinDSWesselka](https://github.com/KevinDSWesselka)">
+    <a href="[https://github.com/KevinDSWesselka](https://github.com/KevinDSWesselka)">
       <div align="center">  
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KevinDSWesselka&show_icons=true&count_private=true&hide_border=true&title_color=0043C7&icon_color=0043C7&text_color=c9d1d9&bg_color=0d1117" alt="Kevin D.S. Wesselka github stats" /> 
-        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDSWesselka&layout=compact&hide_border=true&title_color=0043C7&text_color=ff91a4&bg_color=0d1117" />
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KevinDSWesselka&theme=react&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Kevin D.S. Wesselka github stats" /> 
+        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDSWesselka&theme=react&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&layout=compact"/>
       </div>
   </span>
 
