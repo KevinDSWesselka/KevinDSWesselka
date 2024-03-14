@@ -31,9 +31,12 @@
 </div>
 <p/> 
 
-## Cool API
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lx4ctckypv2c6rur2oifghw3ri&count=5)
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical)
+## Cool APIS
+Spotify Rently Played<p/>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lx4ctckypv2c6rur2oifghw3ri&count=5)‎
+
+Quote‎<p/>‎
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ## Work in
 <a href="https://www.linkedin.com/company/ercic/mycompany/verification/">
