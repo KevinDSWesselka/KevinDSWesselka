@@ -44,8 +44,3 @@ Spotify Rently Played<p/>
 
 Quote‎<p/>‎
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
-## Work in
-<a href="https://www.linkedin.com/company/ercic/mycompany/verification/">
-  <img src="https://media.licdn.com/dms/image/D4D3DAQFdmjMSw3iRJg/image-scale_191_1128/0/1704978033633/ercic_cover?e=1710864000&v=beta&t=aGtumVngFz-1VKRFy2WHyJB17X9eNgYGuolhBCunr34" alt="elera.">
-<a/>
