@@ -21,7 +21,6 @@
       </div>
   </span>
 
-
 ## Languages I had
 
 <div style="display: inline_block">
