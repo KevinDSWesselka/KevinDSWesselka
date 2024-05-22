@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri)
 
-
 <p align="center">
   <a href="https://github.com/alsiam">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinDSWesselka&theme=react&hide_border=true&background=0D1117&title_color=0043C7&icon_color=0043C7&text_color=c9d1d9&bg_color=0d1117" alt="Saif's GitHub streak"/>
