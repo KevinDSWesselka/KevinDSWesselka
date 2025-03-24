@@ -37,7 +37,7 @@
   <img aling="center" alt="ARDUINO IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img aling="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img aling="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img aling="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+<!--   <img aling="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" /> -->
   <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <a title="Ranger in Trailhead" href="https://www.salesforce.com/trailblazer/profile/KevinDSWesselka"><img aling="center" style=" height: 25px" alt="css3" src="https://logosmarcas.net/wp-content/uploads/2020/11/Salesforce-Simbolo.png" /><a/>
 </div>
