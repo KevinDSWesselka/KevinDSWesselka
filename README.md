@@ -7,9 +7,9 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31lx4ctckypv2c6rur2oifghw3ri)
 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinDSWesselka&theme=react&hide_border=true&background=0D1117&title_color=00FF64&icon_color=00FF64&text_color=c9d1d9&bg_color=0d1117" alt="GitHub streak"/>
-</p>
+</p>-->
 
 
 <span style="display: flex; flex-direction: row;">
