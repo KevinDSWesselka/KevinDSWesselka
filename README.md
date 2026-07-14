@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=(0,255,100)&size=45&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Kevin+DS+Wesselka;I'm+23+Years+Old;Be+Welcome+To+Browse+Here!;May+the+Force+be+with+you.)](https://git.io/typing-svg)
 
-
 ##
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-wesselka-systems-developer/)
@@ -12,14 +11,7 @@
 </p>-->
 
 
-<span style="display: flex; flex-direction: row;">
-  <a href="https://github.com/LeehXD">
-    <a href="[https://github.com/KevinDSWesselka](https://github.com/KevinDSWesselka)">
-      <div align="center">  
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KevinDSWesselka&theme=react&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Kevin D.S. Wesselka github stats" /> 
-        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDSWesselka&theme=react&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&layout=compact"/>
-      </div>
-  </span>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevinDSWesselka&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=58a6ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Languages I had
